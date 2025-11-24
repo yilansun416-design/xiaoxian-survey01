@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
 import { SurveyData } from '../types';
 import { 
-  BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, 
+  BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, 
   PieChart, Pie, Cell, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar 
 } from 'recharts';
 import { Users, Star, BrainCircuit, Heart, ShoppingBag } from 'lucide-react';
